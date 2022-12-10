@@ -1,0 +1,42 @@
+.Dark .section-4-contianer {
+    background-color: #312f44;
+}
+.Dark .container-left-section-4 {
+    color: white;
+}
+.Dark .container-title .container-left-section-4 p  {
+    background-color: white;
+}
+.Dark .container-right-section-4 button  {
+    background-color: white;
+    border: 1px solid white;
+    color: black;
+}
+.Dark .container-ul-section-4  {
+    background-color: #312f44;
+}
+.Dark .container-ul-section-4 ul {
+    background-color: #312f44;
+}
+.Dark .container-ul-section-4 ul li {
+    background-color: #312f44;
+    border-bottom: 1px solid #f3f3f3;
+}
+.Dark .container-number-section-4  {
+    color: var(--1);
+}
+.Dark .container-ul-section-4 ul li:hover {
+    background-color: var(--1);
+}
+.Dark .container-ul-section-4 ul li:hover .container-number-section-4 {
+    color: whites;
+}
+.Dark .container-number-section-4 {
+    color: white;
+}
+.Dark .contianer-name-section4 {
+    color: white;
+}
+.Dark .container-body-section-4-li {
+    color: white;
+}

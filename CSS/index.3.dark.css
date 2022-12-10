@@ -1,0 +1,45 @@
+.Dark .section-container-3 {
+    background-color: #11141d;
+}
+.Dark .container-ex {
+    color: white;
+}
+.Dark .container-ex p {
+    background-color: white;
+} 
+.Dark .container-body {
+    color: white;
+}
+.Dark .container-btn-resume button {
+    color: black;
+    border: 1px solid white;
+    background-color: white;
+}
+.Dark .container-item-slide {
+    background-color: #11141d;
+    border: 1px solid #11141d;
+    color: white;
+}
+.Dark .container-item-slide:hover {
+    background-color: white;
+    border: 1px solid white;
+    color: #11141d;
+}
+.Dark .container-item-slider-ul:hover {
+    border: 1px solid white;
+}
+.Dark .container-tech svg {
+    fill: white;
+}
+.Dark .container-tech .svg3 path {
+    fill: white;
+} 
+/* .Dark .container-tech .flutter {
+    fill: white;
+}
+.Dark .container-tech .flutter path {
+    fill: none;
+}  */
+.Dark .container-text-tech {
+    color: white;
+}

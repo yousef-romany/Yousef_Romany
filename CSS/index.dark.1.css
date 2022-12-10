@@ -1,0 +1,41 @@
+.Dark .section-contianer {
+    background-color: #262439;
+}
+.Dark .container-logo svg {
+    fill: var(--1);
+}
+.Dark .container-text {
+    color: white;
+}
+.Dark .container-text p:hover {
+    border-bottom: 1px solid white;
+}
+.Dark .container-info {
+    background-color: #262439;
+}
+.Dark .container-text-right  {
+    background-color: #262439;
+}
+.Dark .container-name {
+    color: white;
+}
+.Dark .container-job {
+    color: white;
+}
+.Dark .container-job p {
+    background-color: white;
+}
+.Dark .container-infoo {
+    color: white;
+}
+.Dark .container-buttons button:nth-child(2) {
+    background-color: #262439;
+    border: 1px solid #262439;
+    color: white; 
+}
+.Dark .container-buttons button:nth-child(2):hover {
+    border: 1px solid white;
+}
+.Dark .container-left-image {
+    background-color: #262439;
+}
